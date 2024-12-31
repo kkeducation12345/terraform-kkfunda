@@ -1,0 +1,73 @@
+Terraform syllabus by kk funda
+==============================
+
+--> Introduction to IAC
+
+--> Types of IaC tools
+
+--> why terraform?
+
+--> HCL basics
+
+--> provision, update, and destroy
+
+--> providers
+
+--> Input variables
+
+--> output variables
+
+--> resource attributes
+
+--> Resource dependencies
+
+--> Terraform state
+
+--> commands in terraform
+
+--> mutable vs immutable infrastructure
+
+--> Lifecycle Rules
+
+--> Data sources
+
+--> Meta arguments
+
+--> count
+
+--> for-each
+
+--> version constraints
+
+--> AWS basics [pragrammatic access, IAM basics, IAM with terraform, Introduction to S3, S3 with terraform, Introduction to DynamoDB, DynamoDB with terraform]
+
+--> remote state
+
+--> state locking
+
+--> Remote Backend with s3
+
+--> state commands
+
+--> introduction to Ec2
+
+--> AWS ec2 with terraform
+
+--> Provisioners
+
+--> terraform taints
+
+--> Debugging
+
+--> Terraform import
+
+--> Modules
+
+--> Functions
+
+--> Conditional expressions
+
+--> Workspaces
+
+--> Terraform cloud
+
